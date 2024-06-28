@@ -1,6 +1,7 @@
 # proximil
 [hello world.](https://x-07-58a51d.netlify.app/) <br> 
 email me at kishlay@kisu.dev for the toy link!  
+edit: the toy is up on sage! you can access it from sage's project page, im excited!
 # proximil project progress
 #### sometimes im live on YouTube<br>
 
