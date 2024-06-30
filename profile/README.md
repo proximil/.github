@@ -24,7 +24,7 @@ day 14: in the search api route, now ive allow only users with complete profile 
 day 15: collaborated with a ui/ux designer from nigeria to work on proximil! im very excited <br>
 day 16: released the second version of the dev build with a lot of new features and with more security. also attended the lab 2. <br>
 day 17: trying to brainstorm ideas for newer features. TBD <br>
-day 18: didnt specifically work on code today
+day 18: didnt specifically work on code today <br>
 day 19: started working on 'letterbox functionality' to be revealed soon ;)
 ## What is proximil?
 ### proximil is a platform designed to help users find relevant professionals in their locality.
