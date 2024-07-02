@@ -25,9 +25,9 @@ day 15: collaborated with a ui/ux designer from nigeria to work on proximil! im 
 day 16: released the second version of the dev build with a lot of new features and with more security. also attended the lab 2. <br>
 day 17: trying to brainstorm ideas for newer features. TBD <br>
 day 18: didnt specifically work on code today <br>
-day 19: started working on 'letterbox functionality' to be revealed soon ;)
-day 20: college, work, home, code... nothing much
-day 21: f-ed up the whole codebase :)
+day 19: started working on 'letterbox functionality' to be revealed soon ;) <br>
+day 20: college, work, home, code... nothing much <br>
+day 21: f-ed up the whole codebase :)<br>
 ## What is proximil?
 ### proximil is a platform designed to help users find relevant professionals in their locality.
 ![alterok](https://github.com/proximil/.github/assets/67735128/91af8ea8-64cb-4c51-81f2-d5f316529c52)
