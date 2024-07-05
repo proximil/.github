@@ -30,6 +30,7 @@ day 20: college, work, home, code... nothing much <br>
 day 21: f-ed up the whole codebase :)<br>
 day 22: fix stuff and got to work  
 day 23: chat feature works now!!! finally implemented it nicely. also edited a bit of css too  
+day 24: first launch!!
 ## What is proximil?
 ### proximil is a platform designed to help users find relevant professionals in their locality.
 ![alterok](https://github.com/proximil/.github/assets/67735128/91af8ea8-64cb-4c51-81f2-d5f316529c52)
