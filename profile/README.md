@@ -1,6 +1,6 @@
 # proximil  
 hello world.  
-email me at kishlay@kisu.dev for the toy link!  
+## Here's my first public launch! https://proximil-dev-build.netlify.app/
 edit: the toy is up on sage! you can access it from sage's project page.
 # proximil project progress
 #### sometimes im live on YouTube<br>
