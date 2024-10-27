@@ -3,9 +3,7 @@ hello world.
 ## Here's my first public launch! https://proximil-dev-build.netlify.app/
 edit: sage is down.
 # proximil project progress
-#### sometimes im live on YouTube<br>
 
-https://youtube.com/@kan-kode/live <br><br>
 #### 12 june = day 1<br>
 day 1: excalidraw and wireframe for the website<br>
 day 2: setting up basic flask app succesfully<br>
